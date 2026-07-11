@@ -1,0 +1,15 @@
+{
+  "name": "flipkart-ad-optimiser",
+  "version": "1.0.0",
+  "description": "Flipkart Ad Optimiser",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.4",
+    "xlsx": "^0.18.5"
+  }
+}
